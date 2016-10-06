@@ -1,0 +1,6 @@
+{
+  "name": "OpenMP heat equation",
+  "tagline": "Easy Parallelization of Heat Equation",
+  "body": "# OpenMP Heat Equation\r\nEasy Parallelization of Heat Equation\r\n\r\n# Notes\r\nIn Visual Studio, remember to enable OpenMP in C/C++ - Languages - Use OpenMP and set yes(/openmp)\r\nYou can directly take Source.cpp file for compiling in other C++ compiler with openmp",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
